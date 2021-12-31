@@ -1,2 +1,2 @@
-# tm-managing-component-tree
+# tm-es6-spread-operator-practice
 Created with CodeSandbox
